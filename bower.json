@@ -1,5 +1,5 @@
 {
-    "name": "heatmap.js-amd",
+    "name": "heatmap-js-sm",
     "description": "Dynamic JavaScript Heatmaps for the Web",
     "main": "build/heatmap.min.js",
     "homepage": "http://www.patrick-wied.at/static/heatmapjs/",
@@ -8,7 +8,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/pa7/heatmap.js.git"
+        "url": "https://github.com/studiomobile/heatmap.js.git"
     },
     "keywords": [
         "heatmap", "heat map", "heatmaps", "canvas", "html5", "web heatmaps"
